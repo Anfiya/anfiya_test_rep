@@ -1,12 +1,14 @@
 <?php 
 
-echo "hello world test page ";
+$a = 10;
+$b = 20;
 
-hellow new line
+for($i=$a; $i<=20;$i++)
+{
 
-add new line 
+	echo   $i;
 
-another line
-  
-  hai line from github
+	echo " <br>";
+
+}
 ?>
