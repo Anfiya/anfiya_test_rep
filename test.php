@@ -11,4 +11,7 @@ for($i=$a; $i<=20;$i++)
 	echo " <br>";
 
 }
+
+echo $b;
+echo $a;
 ?>
